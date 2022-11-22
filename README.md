@@ -1,6 +1,9 @@
 <h1 align="center"> 
+ 
+  **<** 
   <img src="https://raw.githubusercontent.com/nthieu211/nthieu211/main/GIFs/Earth.gif" width="30px">  Hello World! 
-  <img src="https://raw.githubusercontent.com/nthieu211/nthieu211/main/GIFs/Hi.gif" width="30px">, I'm Hieu
+  <img src="https://raw.githubusercontent.com/nthieu211/nthieu211/main/GIFs/Hi.gif" width="30px">, I'm Hieu 
+  **/>**
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nthieu211&label=Profile%20views&color=0e75b6&style=flat" alt="nthieu211" /> </p>
@@ -13,7 +16,7 @@
 
 <details> <summary><h3 align="left">🧑 More about me</h3></summary>
   
-- 🔭 I’m currently studying at **VNUHCM - University of Science**
+- 🚀 I’m currently studying at **VNUHCM - University of Science**
   
 - 🌱 I’m currently learning **everything 🤖**
   
