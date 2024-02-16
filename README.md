@@ -11,6 +11,7 @@
 
 <h3 align="left">🧑 More about me</h3>
 - I’m currently studying at **VNUHCM - University of Science**
+
 - 📫 Reach me out at **trungghieuu4713@gmail.com** 
 
 
