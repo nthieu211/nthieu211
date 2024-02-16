@@ -8,16 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nthieu211&label=Profile%20views&color=0e75b6&style=flat" alt="nthieu211" /> </p>
 
-```cpp
- 🌝 Life is good, but it can be better 🌝
-```
 
 <h3 align="left">🧑 More about me</h3>
-  
-- 🚀 I’m currently studying at **VNUHCM - University of Science**
-  
-- 🌱 I’m currently learning **everything 🤖**
-  
+- I’m currently studying at **VNUHCM - University of Science**
 - 📫 Reach me out at **trungghieuu4713@gmail.com** 
 
 
